@@ -26,20 +26,21 @@
     
 🛠 **Tech Stack**
 
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker) 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes)
-![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=Jenkins)
-![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat&logo=Ansible)
-![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Terraform)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=GitLab)
-![Chef](https://img.shields.io/badge/-Chef-000000?style=flat&logo=Chef)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon-AWS)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux)
-![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=GNU-Bash)
-![Prometheus](https://img.shields.io/badge/-Prometheus-000000?style=flat&logo=Prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-000000?style=flat&logo=Grafana)
+- ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker) 
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes)
+- ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=Jenkins)
+- ![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat&logo=Ansible)
+- ![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Terraform)
+- ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git)
+- ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub)
+- ![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=GitLab)
+- ![Chef](https://img.shields.io/badge/-Chef-000000?style=flat&logo=Chef)
+- ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon-AWS)
+- ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux)
+- ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=GNU-Bash)
+- ![Prometheus](https://img.shields.io/badge/-Prometheus-000000?style=flat&logo=Prometheus)
+- ![Grafana](https://img.shields.io/badge/-Grafana-000000?style=flat&logo=Grafana)
+
 <br>
 <br>
 <br><br>
