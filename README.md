@@ -41,9 +41,7 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000000?style=flat&logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000000?style=flat&logo=Grafana)
 
-<div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
