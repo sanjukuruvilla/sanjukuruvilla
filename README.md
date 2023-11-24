@@ -11,8 +11,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-kuruvillasanju@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kuruvillasanju@gmail.com)](mailto:kuruvillasanju@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
-
+- ⚡ Crafting synergy between code and infrastructure to orchestrate seamless operations. DevOps Engineer 🛠💻, architecting innovation in the realm of technology. Embracing continuous integration, delivery, and a passion for automation. 🚀 #DevOpsJourney
+  
 💻 **Things I Love**
 
 - Python 🐍
@@ -24,7 +24,7 @@
  <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=sanjukuruvilla&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
     
-🛠**Tech Stack**
+🛠 **Tech Stack**
 
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker) 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes)
