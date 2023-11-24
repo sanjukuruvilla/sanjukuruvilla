@@ -25,7 +25,7 @@
     </a>
     
 🛠**Tech Stack**
-
+<img align="left"
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker) 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=Jenkins)
@@ -40,7 +40,7 @@
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=GNU-Bash)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000000?style=flat&logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000000?style=flat&logo=Grafana)
-
+/>
 
 
 
