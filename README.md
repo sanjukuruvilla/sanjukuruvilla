@@ -24,7 +24,7 @@
     
 🛠**Tech Stack**
 
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker) Docker
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker) 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes) Kubernetes
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=Jenkins) Jenkins
 ![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat&logo=Ansible) Ansible
