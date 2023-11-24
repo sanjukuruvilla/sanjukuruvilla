@@ -42,7 +42,7 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-000000?style=flat&logo=Grafana)
 <br>
 <br>
-<br>
+<br><br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
