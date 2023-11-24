@@ -20,7 +20,7 @@
 - Photography 📷📸
 - Cloud Computing ☁️
 
-   <br><br><br> <a href="https://github.com/sanjukuruvilla/github-readme-stats" title="Go to Source">
+   <br><a href="https://github.com/sanjukuruvilla/github-readme-stats" title="Go to Source">
  <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=sanjukuruvilla&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
     
