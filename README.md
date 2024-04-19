@@ -12,7 +12,8 @@
 
 
 - ⚡ Crafting synergy between code and infrastructure to orchestrate seamless operations.
-- 🛠💻 DevOps Engineer, architecting innovation in the realm of technology. Embracing continuous integration, delivery, and a passion for automation.
+- 💻 Aspiring AWS Cloud / DevOps Enthusiast, Eager learner Seeking Opportunities in AWS/ DevOps , architecting innovation in the realm of technology.
+- 🛠 Embracing continuous integration, delivery, and a passion for automation.
 - 🚀 #DevOpsJourney
   
 💻 **Things I Love**
